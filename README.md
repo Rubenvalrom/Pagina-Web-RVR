@@ -83,7 +83,7 @@ Muestran su id, los productos que contienen, precio del producto, la cantidad y 
 
 ## Base de datos
 
-![](img/readme/Aspose.Words.e0ccc95c-3304-4fff-ac4d-04c6e63ac249.010.jpeg)
+![](img/readme/Bd.jpeg)
 
 ## Programación
 
