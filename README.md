@@ -1,7 +1,21 @@
 # RVR
 ## Introducción
 
-El proyecto final de Base de datos tiene como finalidad la creación de una web conectada a una base de datos SQL para un e-commerce ficticio “RVR” orientado a la venta de artículos tecnológicos. 
+Este proyecto tiene como finalidad la creación de una web conectada a una base de datos SQL para un e-commerce ficticio “RVR” orientado a la venta de artículos tecnológicos. 
+
+## Base de datos
+
+![](img/readme/Bd.jpeg)
+
+## Programación
+
+### Lenguajes
+
+HTML, CSS, JavaScript y PHP 
+
+### Librerías y Frameworks
+
+Bootstrap y Ajax
 
 ## Funcionalidades
 
@@ -81,16 +95,4 @@ Muestra la id, fecha y estado de todos los pedidos realizados. Contienen un bot�
 
 Muestran su id, los productos que contienen, precio del producto, la cantidad y el coste total.  
 
-## Base de datos
 
-![](img/readme/Bd.jpeg)
-
-## Programación
-
-### Lenguajes
-
-HTML, CSS, JavaScript y PHP 
-
-### Librerías y Frameworks
-
-Bootstrap y Ajax
